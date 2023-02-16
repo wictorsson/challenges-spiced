@@ -33,6 +33,7 @@ button {
   /*Style me! Change my border, set a border radius or what you want to try out. :) */
   border-radius: 15px;
   color: green;
+  border: 1px solid red;
 }
 
 .button2 {
