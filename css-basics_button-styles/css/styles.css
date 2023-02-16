@@ -31,8 +31,8 @@ button {
 
 .button1 {
   /*Style me! Change my border, set a border radius or what you want to try out. :) */
-  border-radius: 5px;
-
+  border-radius: 15px;
+  color: green;
 }
 
 .button2 {
@@ -45,6 +45,8 @@ button {
   /*Style me! You can test out changing the font, or font size, ...*/
   font-family: 'Times New Roman', Times, serif;
   font-size: larger;
+  border: 20px solid #000000;
+  /* Green */
 }
 
 .button4 {
