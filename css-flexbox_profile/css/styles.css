@@ -34,7 +34,7 @@ body {
   list-style: none;
   padding-left: 0;
   flex-wrap: wrap;
-  justify-content: space-between;
+  gap: 11px;
 }
 
 .tech-stack__list-item {
